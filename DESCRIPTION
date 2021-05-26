@@ -9,7 +9,6 @@ Depends:
     ggplot2,
     R (>= 2.10)
 Imports: 
-  ggpubr,
   Rdpack    
 Suggests: tidyverse  
 Encoding: UTF-8
